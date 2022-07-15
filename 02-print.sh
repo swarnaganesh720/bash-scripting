@@ -11,5 +11,5 @@ echo -e "\e[48m Hi BOBY \e[0m"
 ## To have a background color
 # echo -e "\e[background; COL-CODEm  MESSAGE  \e[0m" 
 
-echo -e "\e[45;33m I am printing COLORS \e[0m"
+echo -e "\e[32;33m I am printing COLORS \e[0m"
 echo -e "\e[47;38m Hi Jorge \e[0m"
