@@ -7,7 +7,6 @@ a=10
 b=abc
 d=300
 c=33
-H=Ganesh
 
 
 # abc is also a string 
