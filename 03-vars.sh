@@ -22,7 +22,7 @@ echo "The value of c is $c"
 echo Value of d is $d    ### Accessing a varianble from shell
 
 # rm -rf /data/${DATA_DIR} ---> /data/
-rm -rf /home/centos/bash-scripting/$H
+mkdir  $H /home/centos/bash-scripting/
 
 # $a or  ${a} both are same we can write any one
 
