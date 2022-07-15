@@ -7,6 +7,7 @@ a=10
 b=abc
 d=300
 c=33
+H=Ganesh
 
 
 # abc is also a string 
@@ -21,6 +22,7 @@ echo "The value of c is $c"
 echo Value of d is $d    ### Accessing a varianble from shell
 
 # rm -rf /data/${DATA_DIR} ---> /data/
+rm -rf /home/centos/bash-scripting/$H
 
 # $a or  ${a} both are same we can write any one
 
