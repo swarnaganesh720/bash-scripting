@@ -1,4 +1,4 @@
 #!/bin/bash
 
-read -p 'Enter your name : ' Name
+read -p 'Enter your name : ' NAME
 echo -e "Name = $NAME"
